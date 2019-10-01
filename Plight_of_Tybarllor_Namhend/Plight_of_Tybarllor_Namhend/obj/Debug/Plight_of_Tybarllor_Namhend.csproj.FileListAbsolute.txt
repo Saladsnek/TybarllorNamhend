@@ -1,0 +1,7 @@
+\\NAS7.escg.ac.uk\Users\505000\100\505188\Documents\Visual Studio Games Code\Plight_of_Tybarllor_Namhend\Plight_of_Tybarllor_Namhend\bin\Debug\Plight_of_Tybarllor_Namhend.exe.config
+\\NAS7.escg.ac.uk\Users\505000\100\505188\Documents\Visual Studio Games Code\Plight_of_Tybarllor_Namhend\Plight_of_Tybarllor_Namhend\bin\Debug\Plight_of_Tybarllor_Namhend.exe
+\\NAS7.escg.ac.uk\Users\505000\100\505188\Documents\Visual Studio Games Code\Plight_of_Tybarllor_Namhend\Plight_of_Tybarllor_Namhend\bin\Debug\Plight_of_Tybarllor_Namhend.pdb
+\\NAS7.escg.ac.uk\Users\505000\100\505188\Documents\Visual Studio Games Code\Plight_of_Tybarllor_Namhend\Plight_of_Tybarllor_Namhend\obj\Debug\Plight_of_Tybarllor_Namhend.csprojAssemblyReference.cache
+\\NAS7.escg.ac.uk\Users\505000\100\505188\Documents\Visual Studio Games Code\Plight_of_Tybarllor_Namhend\Plight_of_Tybarllor_Namhend\obj\Debug\Plight_of_Tybarllor_Namhend.csproj.CoreCompileInputs.cache
+\\NAS7.escg.ac.uk\Users\505000\100\505188\Documents\Visual Studio Games Code\Plight_of_Tybarllor_Namhend\Plight_of_Tybarllor_Namhend\obj\Debug\Plight_of_Tybarllor_Namhend.exe
+\\NAS7.escg.ac.uk\Users\505000\100\505188\Documents\Visual Studio Games Code\Plight_of_Tybarllor_Namhend\Plight_of_Tybarllor_Namhend\obj\Debug\Plight_of_Tybarllor_Namhend.pdb
